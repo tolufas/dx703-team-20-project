@@ -2,4 +2,9 @@
 *.csv
 huffpost_splits/
 .claude/
-*.md
+*.json
+data/
+logs/
+*.zip
+/data
+*data/
