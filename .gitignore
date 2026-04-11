@@ -2,3 +2,4 @@
 *.csv
 huffpost_splits/
 .claude/
+*.md
